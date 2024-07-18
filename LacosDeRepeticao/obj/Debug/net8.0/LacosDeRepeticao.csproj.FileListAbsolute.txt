@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\bin\Debug\net8.0\LacosDeRepeticao.exe
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\bin\Debug\net8.0\LacosDeRepeticao.deps.json
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\bin\Debug\net8.0\LacosDeRepeticao.runtimeconfig.json
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\bin\Debug\net8.0\LacosDeRepeticao.dll
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\bin\Debug\net8.0\LacosDeRepeticao.pdb
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\obj\Debug\net8.0\LacosDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\obj\Debug\net8.0\LacosDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\obj\Debug\net8.0\LacosDeRepeticao.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\obj\Debug\net8.0\LacosDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\obj\Debug\net8.0\LacosDeRepeticao.dll
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\obj\Debug\net8.0\refint\LacosDeRepeticao.dll
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\obj\Debug\net8.0\LacosDeRepeticao.pdb
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\obj\Debug\net8.0\LacosDeRepeticao.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\pc\AulasDotNet\LacosDeRepeticao\obj\Debug\net8.0\ref\LacosDeRepeticao.dll
